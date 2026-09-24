@@ -35,5 +35,5 @@ dapat digunakan baik sebagai pernyataan maupun ekspresi.
 Berikut adalah contoh penggunaan when sebagai pernyataan:
 - Tempatkan ekspresi kondisional di dalam tanda kurung () dan tindakan yang harus
 dilakukan di dalam tanda kurung kurawal {}.
-- Gunakan -> di setiap cabang untuk memisahkan setiap kondisi dari setiap tindakan.
+- Gunakan -> di setiap cabang untuk memisahkan setiap kondisi dari setiap tindakan. (perbaikan commit)
 - <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/4192085f-744f-4827-ac11-cc12750f644c" />
