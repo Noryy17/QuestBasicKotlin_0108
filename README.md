@@ -136,3 +136,8 @@ memanggil fungsi .
 Compare instances
 Untuk membandingkan instance kelas data, gunakan operator persamaan ==:
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/98521f42-d4c5-49c6-af0e-684900c5f5f9" />
+
+Copy instance
+Untuk membuat salinan persis dari instance kelas data, panggil fungsi .copy() pada
+instance.
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e12e7b4b-93c8-46fc-9f5e-a24cd6561a73" />
