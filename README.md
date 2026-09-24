@@ -23,3 +23,17 @@ Cara termudah untuk membuat map adalah dengan menggunakan ‘to’ di antara set
 kunci dan nilai terkait:
 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/98258cf8-adfd-4e23-ad8c-ba95af6c6d20" />
+Conditional expressions
+Kotlin menyediakan if dan when untuk memeriksa ekspresi bersyarat.
+If
+Untuk menggunakan if, tambahkan ekspresi kondisional di dalam tanda kurung () dan
+tindakan yang akan dilakukan jika hasilnya benar di dalam tanda kurung kurawal {}:
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/5dbcb598-ad41-4813-9f40-6b820388e70d" />
+When
+Gunakan when ketika Anda memiliki ekspresi bersyarat dengan beberapa cabang. when
+dapat digunakan baik sebagai pernyataan maupun ekspresi.
+Berikut adalah contoh penggunaan when sebagai pernyataan:
+- Tempatkan ekspresi kondisional di dalam tanda kurung () dan tindakan yang harus
+dilakukan di dalam tanda kurung kurawal {}.
+- Gunakan -> di setiap cabang untuk memisahkan setiap kondisi dari setiap tindakan.
+- <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/4192085f-744f-4827-ac11-cc12750f644c" />
