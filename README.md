@@ -141,3 +141,8 @@ Copy instance
 Untuk membuat salinan persis dari instance kelas data, panggil fungsi .copy() pada
 instance.
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e12e7b4b-93c8-46fc-9f5e-a24cd6561a73" />
+
+Null safety
+Di Kotlin, nilai null bisa saja menjadi nilai yang tidak berarti. Untuk membantu mencegah
+masalah dengan nilai null dalam program Anda, Kotlin memiliki pengaman null. 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f54404a4-1b6b-40a0-bee7-8892c6be8bb0" />
