@@ -62,3 +62,67 @@ Functions
 Anda bisa mendeklarasikan fungsi Anda sendiri di Kotlin dengan menggunakan kata kunci fun.
 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/1169ab43-bfa1-4358-8ba0-bb4ac8d6795b" />
+Named arguments
+Untuk kode yang ringkas, ketika memanggil fungsi, Anda tidak perlu menyertakan nama
+parameter. 
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/64326f3f-3133-4249-a9cb-affbc21429ed" />
+
+
+Default parameter values
+Anda dapat menentukan nilai default untuk parameter fungsi Anda. 
+
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/1e8b848e-c021-4f5e-bd87-176fa78c9f19" />
+
+
+Functions without return
+Jika fungsi Anda tidak mengembalikan nilai yang berguna, maka tipe kembaliannya
+adalah Unit. Unit adalah tipe dengan hanya satu nilai - Unit.
+
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/712aacc0-5073-423e-83eb-fc69caa56547" />
+
+
+Lambda expressions
+Kotlin memungkinkan Anda untuk menulis kode yang lebih ringkas untuk fungsi-fungsi
+dengan menggunakan ekspresi lambda.
+
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/13c2dce8-718a-4dd7-a1f2-b936c376c061" />
+
+
+Class
+Kotlin mendukung pemrograman berorientasi objek dengan kelas dan objek.
+Properties
+Karakteristik objek kelas dapat dideklarasikan dalam properti. 
+
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/11045460-5fd4-4c9c-95f5-1fd0f625448b" />
+
+
+Create instance
+Untuk membuat objek dari sebuah kelas, Anda mendeklarasikan sebuah instance kelas
+menggunakan konstruktor.
+
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/53684d70-9ec7-4468-af2e-6ca504cfd126" />
+
+
+Access properties
+Untuk mengakses properti dari sebuah instance, tulis nama properti setelah nama
+instance yang ditambahkan dengan titik . 
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/7faa76cc-22a2-483f-9d0d-760d42d20f43" />
+
+
+Member functions
+Selain mendeklarasikan properti sebagai bagian dari karakteristik objek, Anda juga dapat
+mendefinisikan perilaku objek dengan fungsi anggota.
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/fdfdea75-5c7e-441b-b859-033d40644a26" />
+
+Data classes
+Kotlin memiliki kelas data yang sangat berguna untuk menyimpan data.
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f2139192-6938-45c4-b034-6a63747e0b77" />
