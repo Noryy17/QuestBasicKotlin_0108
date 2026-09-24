@@ -58,3 +58,7 @@ Dalam kasus penggunaan pertama (while):
 - Nyatakan ekspresi kondisional untuk perulangan perulangan Anda untuk dilanjutkan di dalam
 tanda kurung ().
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/65b8a485-6dd7-4bee-9179-da2b1dec3639" />
+Functions
+Anda bisa mendeklarasikan fungsi Anda sendiri di Kotlin dengan menggunakan kata kunci fun.
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/1169ab43-bfa1-4358-8ba0-bb4ac8d6795b" />
