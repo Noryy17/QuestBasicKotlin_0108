@@ -152,4 +152,23 @@ Nullable types
 Kotlin mendukung tipe nullable yang memungkinkan tipe yang dideklarasikan memiliki
 nilai null. Secara default, sebuah tipe tidak diperbolehkan menerima nilai null. 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/ae7f6271-2bd2-4624-9caa-f4c30c572985" />
+Check for null values
+Anda dapat memeriksa keberadaan nilai null di dalam ekspresi bersyarat. 
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e380f683-ce2c-4e06-9a8e-a1123ac1a73c" />
+
+Use safe calls
+Untuk mengakses properti objek dengan aman yang mungkin berisi nilai null, gunakan
+operator safe call ?... Operator safe call mengembalikan nilai null jika properti objek
+bernilai null.
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b0fc1dcb-98a2-448b-ad89-93a76570b579" />
+
+
+
+Use Elvis operator
+Anda dapat memberikan nilai default untuk dikembalikan jika nilai nol terdeteksi
+dengan menggunakan operator Elvis ?:.
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/d21f1a27-0c0e-4679-92db-42810e93f2f5" />
 
