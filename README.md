@@ -2,3 +2,13 @@
 List menyimpan item sesuai urutan penambahannya, dan memungkinkan adanya item
 duplikat.
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/daa304d1-2e58-47ce-a156-15bfb2ab736a" />
+Set
+Sementara List diurutkan dan memungkinkan item duplikat, set tidak diurutkan dan hanya
+menyimpan item unik.
+Untuk membuat set yang Read-only (Set), gunakan fungsi setOf().
+Untuk membuat set yang dapat diubah (MutableSet), gunakan fungsi mutableSetOf().
+Ketika membuat set, Kotlin dapat menyimpulkan jenis item yang disimpan. Untuk
+mendeklarasikan tipe secara eksplisit, tambahkan tipe di dalam tanda kurung siku <> setelah
+deklarasi Set:
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/27017806-82d7-4fbe-b932-e6a49c2e22c2" />
+
