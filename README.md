@@ -46,4 +46,15 @@ Loops
 Dua struktur perulangan yang paling umum dalam pemrograman adalah for dan while.
 Gunakan for untuk mengulang serangkaian nilai dan melakukan suatu tindakan. Gunakan
 while untuk melanjutkan tindakan hingga kondisi tertentu terpenuhi.
+For
+Anda dapat membuat perulangan for yang mengulang angka 1 hingga 5 dan mencetak
+angka tersebut setiap kali.
+While
+while dapat digunakan dalam dua cara:
+- Untuk mengeksekusi blok kode selama ekspresi kondisional bernilai benar (while)
+- Untuk mengeksekusi blok kode terlebih dahulu dan kemudian memeriksa ekspresi kondisional.
+(do-while)
+Dalam kasus penggunaan pertama (while):
+- Nyatakan ekspresi kondisional untuk perulangan perulangan Anda untuk dilanjutkan di dalam
+tanda kurung ().
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/65b8a485-6dd7-4bee-9179-da2b1dec3639" />
