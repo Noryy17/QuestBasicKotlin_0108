@@ -126,3 +126,9 @@ Data classes
 Kotlin memiliki kelas data yang sangat berguna untuk menyimpan data.
 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f2139192-6938-45c4-b034-6a63747e0b77" />
+
+
+Print as string
+Untuk mencetak string yang dapat dibaca dari instance kelas, Anda dapat secara eksplisit
+memanggil fungsi .
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/cdbe7b04-6ddc-44b2-8899-26bce04f47c7" />
