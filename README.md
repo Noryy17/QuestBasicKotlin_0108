@@ -132,3 +132,7 @@ Print as string
 Untuk mencetak string yang dapat dibaca dari instance kelas, Anda dapat secara eksplisit
 memanggil fungsi .
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/cdbe7b04-6ddc-44b2-8899-26bce04f47c7" />
+
+Compare instances
+Untuk membandingkan instance kelas data, gunakan operator persamaan ==:
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/98521f42-d4c5-49c6-af0e-684900c5f5f9" />
