@@ -146,3 +146,10 @@ Null safety
 Di Kotlin, nilai null bisa saja menjadi nilai yang tidak berarti. Untuk membantu mencegah
 masalah dengan nilai null dalam program Anda, Kotlin memiliki pengaman null. 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f54404a4-1b6b-40a0-bee7-8892c6be8bb0" />
+
+
+Nullable types
+Kotlin mendukung tipe nullable yang memungkinkan tipe yang dideklarasikan memiliki
+nilai null. Secara default, sebuah tipe tidak diperbolehkan menerima nilai null. 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/ae7f6271-2bd2-4624-9caa-f4c30c572985" />
+
