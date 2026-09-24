@@ -37,3 +37,9 @@ Berikut adalah contoh penggunaan when sebagai pernyataan:
 dilakukan di dalam tanda kurung kurawal {}.
 - Gunakan -> di setiap cabang untuk memisahkan setiap kondisi dari setiap tindakan. (perbaikan commit)
 - <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/4192085f-744f-4827-ac11-cc12750f644c" />
+Ranges
+Sebelum membahas tentang perulangan, ada baiknya kita mengetahui cara membuat
+rentang untuk perulangan.
+latihan perulangan dasar angka 1 sampai 4
+<img width="1915" height="1078" alt="image" src="https://github.com/user-attachments/assets/ad7ceb25-475a-4d0f-999e-56948a388b51" />
+
